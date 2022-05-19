@@ -1,0 +1,8 @@
+C:\Users\zehra\source\repos\C#\ClassCalisma\bin\Debug\ClassCalisma.exe.config
+C:\Users\zehra\source\repos\C#\ClassCalisma\bin\Debug\ClassCalisma.exe
+C:\Users\zehra\source\repos\C#\ClassCalisma\bin\Debug\ClassCalisma.pdb
+C:\Users\zehra\source\repos\C#\ClassCalisma\obj\Debug\ClassCalisma.csproj.AssemblyReference.cache
+C:\Users\zehra\source\repos\C#\ClassCalisma\obj\Debug\ClassCalisma.csproj.SuggestedBindingRedirects.cache
+C:\Users\zehra\source\repos\C#\ClassCalisma\obj\Debug\ClassCalisma.csproj.CoreCompileInputs.cache
+C:\Users\zehra\source\repos\C#\ClassCalisma\obj\Debug\ClassCalisma.exe
+C:\Users\zehra\source\repos\C#\ClassCalisma\obj\Debug\ClassCalisma.pdb

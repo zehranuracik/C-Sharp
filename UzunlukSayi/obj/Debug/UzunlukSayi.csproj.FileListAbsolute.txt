@@ -1,0 +1,8 @@
+C:\Users\zehra\source\repos\C#\UzunlukSayi\bin\Debug\UzunlukSayi.exe.config
+C:\Users\zehra\source\repos\C#\UzunlukSayi\bin\Debug\UzunlukSayi.exe
+C:\Users\zehra\source\repos\C#\UzunlukSayi\bin\Debug\UzunlukSayi.pdb
+C:\Users\zehra\source\repos\C#\UzunlukSayi\obj\Debug\UzunlukSayi.csproj.AssemblyReference.cache
+C:\Users\zehra\source\repos\C#\UzunlukSayi\obj\Debug\UzunlukSayi.csproj.SuggestedBindingRedirects.cache
+C:\Users\zehra\source\repos\C#\UzunlukSayi\obj\Debug\UzunlukSayi.csproj.CoreCompileInputs.cache
+C:\Users\zehra\source\repos\C#\UzunlukSayi\obj\Debug\UzunlukSayi.exe
+C:\Users\zehra\source\repos\C#\UzunlukSayi\obj\Debug\UzunlukSayi.pdb

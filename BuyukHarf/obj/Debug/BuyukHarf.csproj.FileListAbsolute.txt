@@ -1,0 +1,8 @@
+C:\Users\zehra\source\repos\C#\BuyukHarf\bin\Debug\BuyukHarf.exe.config
+C:\Users\zehra\source\repos\C#\BuyukHarf\bin\Debug\BuyukHarf.exe
+C:\Users\zehra\source\repos\C#\BuyukHarf\bin\Debug\BuyukHarf.pdb
+C:\Users\zehra\source\repos\C#\BuyukHarf\obj\Debug\BuyukHarf.csproj.AssemblyReference.cache
+C:\Users\zehra\source\repos\C#\BuyukHarf\obj\Debug\BuyukHarf.csproj.SuggestedBindingRedirects.cache
+C:\Users\zehra\source\repos\C#\BuyukHarf\obj\Debug\BuyukHarf.csproj.CoreCompileInputs.cache
+C:\Users\zehra\source\repos\C#\BuyukHarf\obj\Debug\BuyukHarf.exe
+C:\Users\zehra\source\repos\C#\BuyukHarf\obj\Debug\BuyukHarf.pdb

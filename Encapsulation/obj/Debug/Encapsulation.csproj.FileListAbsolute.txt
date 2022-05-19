@@ -1,0 +1,8 @@
+C:\Users\zehra\source\repos\C#\Encapsulation\bin\Debug\Encapsulation.exe.config
+C:\Users\zehra\source\repos\C#\Encapsulation\bin\Debug\Encapsulation.exe
+C:\Users\zehra\source\repos\C#\Encapsulation\bin\Debug\Encapsulation.pdb
+C:\Users\zehra\source\repos\C#\Encapsulation\obj\Debug\Encapsulation.csproj.AssemblyReference.cache
+C:\Users\zehra\source\repos\C#\Encapsulation\obj\Debug\Encapsulation.csproj.SuggestedBindingRedirects.cache
+C:\Users\zehra\source\repos\C#\Encapsulation\obj\Debug\Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\zehra\source\repos\C#\Encapsulation\obj\Debug\Encapsulation.exe
+C:\Users\zehra\source\repos\C#\Encapsulation\obj\Debug\Encapsulation.pdb

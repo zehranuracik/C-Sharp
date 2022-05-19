@@ -1,0 +1,8 @@
+C:\Users\zehra\source\repos\C#\EnumAylar\bin\Debug\EnumAylar.exe.config
+C:\Users\zehra\source\repos\C#\EnumAylar\bin\Debug\EnumAylar.exe
+C:\Users\zehra\source\repos\C#\EnumAylar\bin\Debug\EnumAylar.pdb
+C:\Users\zehra\source\repos\C#\EnumAylar\obj\Debug\EnumAylar.csproj.AssemblyReference.cache
+C:\Users\zehra\source\repos\C#\EnumAylar\obj\Debug\EnumAylar.csproj.SuggestedBindingRedirects.cache
+C:\Users\zehra\source\repos\C#\EnumAylar\obj\Debug\EnumAylar.csproj.CoreCompileInputs.cache
+C:\Users\zehra\source\repos\C#\EnumAylar\obj\Debug\EnumAylar.exe
+C:\Users\zehra\source\repos\C#\EnumAylar\obj\Debug\EnumAylar.pdb

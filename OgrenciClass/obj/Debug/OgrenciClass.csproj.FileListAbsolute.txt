@@ -1,0 +1,8 @@
+C:\Users\zehra\source\repos\C#\OgrenciClass\bin\Debug\OgrenciClass.exe.config
+C:\Users\zehra\source\repos\C#\OgrenciClass\bin\Debug\OgrenciClass.exe
+C:\Users\zehra\source\repos\C#\OgrenciClass\bin\Debug\OgrenciClass.pdb
+C:\Users\zehra\source\repos\C#\OgrenciClass\obj\Debug\OgrenciClass.csproj.AssemblyReference.cache
+C:\Users\zehra\source\repos\C#\OgrenciClass\obj\Debug\OgrenciClass.csproj.SuggestedBindingRedirects.cache
+C:\Users\zehra\source\repos\C#\OgrenciClass\obj\Debug\OgrenciClass.csproj.CoreCompileInputs.cache
+C:\Users\zehra\source\repos\C#\OgrenciClass\obj\Debug\OgrenciClass.exe
+C:\Users\zehra\source\repos\C#\OgrenciClass\obj\Debug\OgrenciClass.pdb
