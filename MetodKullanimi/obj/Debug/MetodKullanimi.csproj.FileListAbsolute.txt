@@ -1,0 +1,8 @@
+C:\Users\zehra\source\repos\C#\MetodKullanimi\bin\Debug\MetodKullanimi.exe.config
+C:\Users\zehra\source\repos\C#\MetodKullanimi\bin\Debug\MetodKullanimi.exe
+C:\Users\zehra\source\repos\C#\MetodKullanimi\bin\Debug\MetodKullanimi.pdb
+C:\Users\zehra\source\repos\C#\MetodKullanimi\obj\Debug\MetodKullanimi.csproj.AssemblyReference.cache
+C:\Users\zehra\source\repos\C#\MetodKullanimi\obj\Debug\MetodKullanimi.csproj.SuggestedBindingRedirects.cache
+C:\Users\zehra\source\repos\C#\MetodKullanimi\obj\Debug\MetodKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\zehra\source\repos\C#\MetodKullanimi\obj\Debug\MetodKullanimi.exe
+C:\Users\zehra\source\repos\C#\MetodKullanimi\obj\Debug\MetodKullanimi.pdb

@@ -1,0 +1,8 @@
+C:\Users\zehra\source\repos\C#\ArreyKullanimi\bin\Debug\ArreyKullanimi.exe.config
+C:\Users\zehra\source\repos\C#\ArreyKullanimi\bin\Debug\ArreyKullanimi.exe
+C:\Users\zehra\source\repos\C#\ArreyKullanimi\bin\Debug\ArreyKullanimi.pdb
+C:\Users\zehra\source\repos\C#\ArreyKullanimi\obj\Debug\ArreyKullanimi.csproj.AssemblyReference.cache
+C:\Users\zehra\source\repos\C#\ArreyKullanimi\obj\Debug\ArreyKullanimi.csproj.SuggestedBindingRedirects.cache
+C:\Users\zehra\source\repos\C#\ArreyKullanimi\obj\Debug\ArreyKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\zehra\source\repos\C#\ArreyKullanimi\obj\Debug\ArreyKullanimi.exe
+C:\Users\zehra\source\repos\C#\ArreyKullanimi\obj\Debug\ArreyKullanimi.pdb

@@ -1,0 +1,8 @@
+C:\Users\zehra\source\repos\C#\if_else_kullanimi\bin\Debug\if_else_kullanimi.exe.config
+C:\Users\zehra\source\repos\C#\if_else_kullanimi\bin\Debug\if_else_kullanimi.exe
+C:\Users\zehra\source\repos\C#\if_else_kullanimi\bin\Debug\if_else_kullanimi.pdb
+C:\Users\zehra\source\repos\C#\if_else_kullanimi\obj\Debug\if_else_kullanimi.csproj.AssemblyReference.cache
+C:\Users\zehra\source\repos\C#\if_else_kullanimi\obj\Debug\if_else_kullanimi.csproj.SuggestedBindingRedirects.cache
+C:\Users\zehra\source\repos\C#\if_else_kullanimi\obj\Debug\if_else_kullanimi.csproj.CoreCompileInputs.cache
+C:\Users\zehra\source\repos\C#\if_else_kullanimi\obj\Debug\if_else_kullanimi.exe
+C:\Users\zehra\source\repos\C#\if_else_kullanimi\obj\Debug\if_else_kullanimi.pdb
