@@ -1,0 +1,8 @@
+C:\Users\zehra\source\repos\C#\AlınanSayıyaKadarToplam\bin\Debug\AlınanSayıyaKadarToplam.exe.config
+C:\Users\zehra\source\repos\C#\AlınanSayıyaKadarToplam\bin\Debug\AlınanSayıyaKadarToplam.exe
+C:\Users\zehra\source\repos\C#\AlınanSayıyaKadarToplam\bin\Debug\AlınanSayıyaKadarToplam.pdb
+C:\Users\zehra\source\repos\C#\AlınanSayıyaKadarToplam\obj\Debug\AlınanSayıyaKadarToplam.csproj.AssemblyReference.cache
+C:\Users\zehra\source\repos\C#\AlınanSayıyaKadarToplam\obj\Debug\AlınanSayıyaKadarToplam.csproj.SuggestedBindingRedirects.cache
+C:\Users\zehra\source\repos\C#\AlınanSayıyaKadarToplam\obj\Debug\AlınanSayıyaKadarToplam.csproj.CoreCompileInputs.cache
+C:\Users\zehra\source\repos\C#\AlınanSayıyaKadarToplam\obj\Debug\AlınanSayıyaKadarToplam.exe
+C:\Users\zehra\source\repos\C#\AlınanSayıyaKadarToplam\obj\Debug\AlınanSayıyaKadarToplam.pdb

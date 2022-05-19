@@ -1,0 +1,8 @@
+C:\Users\zehra\source\repos\C#\CiftTekToplam\bin\Debug\CiftTekToplam.exe.config
+C:\Users\zehra\source\repos\C#\CiftTekToplam\bin\Debug\CiftTekToplam.exe
+C:\Users\zehra\source\repos\C#\CiftTekToplam\bin\Debug\CiftTekToplam.pdb
+C:\Users\zehra\source\repos\C#\CiftTekToplam\obj\Debug\CiftTekToplam.csproj.AssemblyReference.cache
+C:\Users\zehra\source\repos\C#\CiftTekToplam\obj\Debug\CiftTekToplam.csproj.SuggestedBindingRedirects.cache
+C:\Users\zehra\source\repos\C#\CiftTekToplam\obj\Debug\CiftTekToplam.csproj.CoreCompileInputs.cache
+C:\Users\zehra\source\repos\C#\CiftTekToplam\obj\Debug\CiftTekToplam.exe
+C:\Users\zehra\source\repos\C#\CiftTekToplam\obj\Debug\CiftTekToplam.pdb

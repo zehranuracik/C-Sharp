@@ -1,0 +1,8 @@
+C:\Users\zehra\source\repos\C#\ClassOlusturma\bin\Debug\ClassOlusturma.exe.config
+C:\Users\zehra\source\repos\C#\ClassOlusturma\bin\Debug\ClassOlusturma.exe
+C:\Users\zehra\source\repos\C#\ClassOlusturma\bin\Debug\ClassOlusturma.pdb
+C:\Users\zehra\source\repos\C#\ClassOlusturma\obj\Debug\ClassOlusturma.csproj.AssemblyReference.cache
+C:\Users\zehra\source\repos\C#\ClassOlusturma\obj\Debug\ClassOlusturma.csproj.SuggestedBindingRedirects.cache
+C:\Users\zehra\source\repos\C#\ClassOlusturma\obj\Debug\ClassOlusturma.csproj.CoreCompileInputs.cache
+C:\Users\zehra\source\repos\C#\ClassOlusturma\obj\Debug\ClassOlusturma.exe
+C:\Users\zehra\source\repos\C#\ClassOlusturma\obj\Debug\ClassOlusturma.pdb

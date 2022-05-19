@@ -1,0 +1,8 @@
+C:\Users\zehra\source\repos\C#\ForeachDongusu\bin\Debug\ForeachDongusu.exe.config
+C:\Users\zehra\source\repos\C#\ForeachDongusu\bin\Debug\ForeachDongusu.exe
+C:\Users\zehra\source\repos\C#\ForeachDongusu\bin\Debug\ForeachDongusu.pdb
+C:\Users\zehra\source\repos\C#\ForeachDongusu\obj\Debug\ForeachDongusu.csproj.AssemblyReference.cache
+C:\Users\zehra\source\repos\C#\ForeachDongusu\obj\Debug\ForeachDongusu.csproj.SuggestedBindingRedirects.cache
+C:\Users\zehra\source\repos\C#\ForeachDongusu\obj\Debug\ForeachDongusu.csproj.CoreCompileInputs.cache
+C:\Users\zehra\source\repos\C#\ForeachDongusu\obj\Debug\ForeachDongusu.exe
+C:\Users\zehra\source\repos\C#\ForeachDongusu\obj\Debug\ForeachDongusu.pdb

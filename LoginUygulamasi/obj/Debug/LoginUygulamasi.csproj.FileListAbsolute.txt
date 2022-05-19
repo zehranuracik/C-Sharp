@@ -1,0 +1,8 @@
+C:\Users\zehra\source\repos\C#\LoginUygulamasi\bin\Debug\LoginUygulamasi.exe.config
+C:\Users\zehra\source\repos\C#\LoginUygulamasi\bin\Debug\LoginUygulamasi.exe
+C:\Users\zehra\source\repos\C#\LoginUygulamasi\bin\Debug\LoginUygulamasi.pdb
+C:\Users\zehra\source\repos\C#\LoginUygulamasi\obj\Debug\LoginUygulamasi.csproj.AssemblyReference.cache
+C:\Users\zehra\source\repos\C#\LoginUygulamasi\obj\Debug\LoginUygulamasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\zehra\source\repos\C#\LoginUygulamasi\obj\Debug\LoginUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\zehra\source\repos\C#\LoginUygulamasi\obj\Debug\LoginUygulamasi.exe
+C:\Users\zehra\source\repos\C#\LoginUygulamasi\obj\Debug\LoginUygulamasi.pdb
